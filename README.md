@@ -9,6 +9,6 @@ In alphabetical order
 | kbengine  | LGPL      |http://kbengine.org                    | C++/Python    | Python        | 
 | leaf      | Apache    |https://github.com/name5566/leaf       | Go            | N/A           |  
 | pomelo    | MIT       | http://pomelo.netease.com             | Node.js       | Node.js       |  
-| RakNet    | BSD       |https://github.com/OculusVR/RakNet     | C/C++         | N/A           |  
-| skynet    | MIT       |https://github.com/cloudwu/skynet      | C/Lua         | Lua           |   
+| RakNet    | BSD       |https://github.com/OculusVR/RakNet     | C/C++         | N/A           |    
 | scut      | BSD       |  http://www.scutgame.com/             | C#/C++        | C#/Python/Lua |  
+| skynet    | MIT       |https://github.com/cloudwu/skynet      | C/Lua         | Lua           |   
