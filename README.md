@@ -4,6 +4,7 @@ In alphabetical order
 
 | Name | License | Site | Source Language | Script Language |  
 | -----|----|----|  -----|----|----|    
+| deepstream   | AGPL       |https://github.com/deepstreamIO/deepstream.io   | C/Node.js        | Node.js        |
 | firefly   | MIT       |http://git.oschina.net/9miao/firefly   | Python        | Python        |
 | gonet     | MIT       |http://gonet2.github.io                | Go            | N/A           |
 | kbengine  | LGPL      |http://kbengine.org                    | C++/Python    | Python        | 
