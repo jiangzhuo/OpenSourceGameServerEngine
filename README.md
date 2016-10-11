@@ -9,6 +9,7 @@ In alphabetical order
 | gonet     | MIT       |http://gonet2.github.io                | Go            | N/A           |
 | kbengine  | LGPL      |http://kbengine.org                    | C++/Python    | Python        | 
 | leaf      | Apache    |https://github.com/name5566/leaf       | Go            | N/A           |
+| NoahGameFrame | Apache-2.0 | https://github.com/ketoo/NoahGameFrame | C/C++/C# | N/A |
 | orleans   | MIT       |http://dotnet.github.io/orleans/       | C#            | C#            |
 | pomelo    | MIT       | http://pomelo.netease.com             | Node.js       | Node.js       |  
 | Pi        | MIT       |https://github.com/lizs/Pi             | C#            | C#            |   
