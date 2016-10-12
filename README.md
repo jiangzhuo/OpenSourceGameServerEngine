@@ -17,3 +17,4 @@ In alphabetical order
 | RakNet    | BSD       |https://github.com/OculusVR/RakNet     | C/C++         | N/A           |    
 | scut      | BSD       |  http://www.scutgame.com/             | C#/C++        | C#/Python/Lua |  
 | skynet    | MIT       |https://github.com/cloudwu/skynet      | C/Lua         | Lua           |  
+| chuck    | None       |https://github.com/sniperHW/chuck      | C/Lua         | Lua           |  
