@@ -1,6 +1,6 @@
 # OpenSourceGameServerEngine
 
-In alphabetical order
+In no particular order
 
 | Name | License | Site | Source Language | Script Language |  
 | -----|----|----|  -----|----|----|    
