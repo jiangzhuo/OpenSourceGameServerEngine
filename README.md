@@ -4,6 +4,7 @@ In no particular order
 
 | Name | License | Site | Source Language | Script Language |  
 | -----|----|----|  -----|----|----|    
+| abelkhan | MIT | https://github.com/qianqians/abelkhan | C++ | N/A |
 | deepstream   | AGPL       |https://github.com/deepstreamIO/deepstream.io   | C/Node.js        | Node.js        |
 | firefly   | MIT       |http://git.oschina.net/9miao/firefly   | Python        | Python        |
 | gonet     | MIT       |http://gonet2.github.io                | Go            | N/A           |
@@ -17,4 +18,4 @@ In no particular order
 | RakNet    | BSD       |https://github.com/OculusVR/RakNet     | C/C++         | N/A           |    
 | scut      | BSD       |  http://www.scutgame.com/             | C#/C++        | C#/Python/Lua |  
 | skynet    | MIT       |https://github.com/cloudwu/skynet      | C/Lua         | Lua           |  
-| chuck    | None       |https://github.com/sniperHW/chuck      | C/Lua         | Lua           |  
+| chuck    | N/A       |https://github.com/sniperHW/chuck      | C/Lua         | Lua           |  
