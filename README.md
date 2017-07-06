@@ -8,6 +8,7 @@ In no particular order
 | deepstream    | AGPL          |https://github.com/deepstreamIO/deepstream.io    | C/Node.js       | Node.js       |
 | firefly       | MIT           |http://git.oschina.net/9miao/firefly             | Python          | Python        |
 | gonet         | MIT           |http://gonet2.github.io                          | Go              | N/A           |
+| IOGrid        | MIT           |https://github.com/SocketCluster/iogrid          | Node.js         | Node.js       |
 | kbengine      | LGPL          |http://kbengine.org                              | C++/Python      | Python        | 
 | leaf          | Apache        |https://github.com/name5566/leaf                 | Go              | N/A           |
 | NoahGameFrame | Apache-2.0    |https://github.com/ketoo/NoahGameFrame           | C/C++/C#        | N/A           |
