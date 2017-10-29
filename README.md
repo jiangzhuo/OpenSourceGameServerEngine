@@ -11,7 +11,10 @@ In no particular order
 | gonet         | MIT           |http://gonet2.github.io                          | Go              | N/A           |
 | IOGrid        | MIT           |https://github.com/SocketCluster/iogrid          | Node.js         | Node.js       |
 | kbengine      | LGPL          |http://kbengine.org                              | C++/Python      | Python        | 
-| leaf          | Apache        |https://github.com/name5566/leaf                 | Go              | N/A           |
+| leaf          | Apache        |https://github.com/name5566/leaf                 | Go              | N/A           |  
+| mqant         | Apache-2.0    |https://github.com/liangdas/mqant                | Go              | N/A           |
+| nakama        | Apache-2.0    |https://github.com/heroiclabs/nakama             | Go              | N/A           |
+| nano          | MIT           |https://github.com/lonnng/nano                   | Go              | N/A           |
 | NoahGameFrame | Apache-2.0    |https://github.com/ketoo/NoahGameFrame           | C/C++/C#        | N/A           |
 | orleans       | MIT           |http://dotnet.github.io/orleans/                 | C#              | C#            |
 | GameCloud.Orleans   | MIT     |https://github.com/CragonGame/GameCloud.Orleans  | C#              | C#            |
