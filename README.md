@@ -14,6 +14,7 @@ In no particular order
 | IOGrid        | MIT           |https://github.com/SocketCluster/iogrid          | Node.js         | Node.js       |
 | kbengine      | LGPL          |http://kbengine.org                              | C++/Python      | Python        | 
 | leaf          | Apache        |https://github.com/name5566/leaf                 | Go              | N/A           |  
+| LiFrame       | Apache-2.0    |https://github.com/llr104/LiFrame                | Go              | N/A           |  
 | mqant         | Apache-2.0    |https://github.com/liangdas/mqant                | Go              | N/A           |
 | nakama        | Apache-2.0    |https://github.com/heroiclabs/nakama             | Go              | N/A           |
 | nano          | MIT           |https://github.com/lonnng/nano                   | Go              | N/A           |
